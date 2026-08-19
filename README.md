@@ -34,4 +34,4 @@ Next-generation **Kimi AI Peak** intelligence suite delivering state-of-the-art 
 ---
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.  
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.   
