@@ -15,8 +15,8 @@ Next-generation **Kimi AI Peak** intelligence suite delivering state-of-the-art 
 ---
 
 ## Get it
-- 📥 **Get the latest build:** [https://kimi-ai-peak.softonx.xyz](https://kimi-ai-peak.softonx.xyz)
-- 📖 **Project page:** [https://kimi-ai-peak.softonx.xyz](https://kimi-ai-peak.softonx.xyz)
+- 📥 **Get the latest build:** [https://kimi-ai-peak.softax.xyz](https://kimi-ai-peak.softax.xyz)
+- 📖 **Project page:** [https://kimi-ai-peak.softax.xyz](https://kimi-ai-peak.softax.xyz)
 
 ---
 
